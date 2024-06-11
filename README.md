@@ -1,4 +1,4 @@
-# VK-ABC-AdBlock-community-installed
+# VK-ABC-AdBlock-community
 Удаляет немаркированную рекламу сообществ
 ### Описание расширения
 
